@@ -8,3 +8,9 @@
 5/31(목) - 5/31(금) : 주제 선정 
 6/1(토) ~ 6/3(월) : 데이터 수집 및 어노테이션 포맷
 6/4(화) : 모델 학습
+
+
+### 실행결과
+![val_batch0_pred](https://github.com/PacaSim/Early-response-system-to-civil-complaints-using-YOLO/assets/116507879/b99f513c-87b4-4231-9e33-cc218448cf7d)
+![val_batch1_pred](https://github.com/PacaSim/Early-response-system-to-civil-complaints-using-YOLO/assets/116507879/c08fa4aa-e683-4c81-a109-dc56e496fafd)
+![val_batch2_pred](https://github.com/PacaSim/Early-response-system-to-civil-complaints-using-YOLO/assets/116507879/8d1791da-5b66-46bc-8aef-3208213b62d0)
