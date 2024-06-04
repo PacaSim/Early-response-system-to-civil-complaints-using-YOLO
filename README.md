@@ -14,3 +14,7 @@
 ![val_batch0_pred](https://github.com/PacaSim/Early-response-system-to-civil-complaints-using-YOLO/assets/116507879/b99f513c-87b4-4231-9e33-cc218448cf7d)
 ![val_batch1_pred](https://github.com/PacaSim/Early-response-system-to-civil-complaints-using-YOLO/assets/116507879/c08fa4aa-e683-4c81-a109-dc56e496fafd)
 ![val_batch2_pred](https://github.com/PacaSim/Early-response-system-to-civil-complaints-using-YOLO/assets/116507879/8d1791da-5b66-46bc-8aef-3208213b62d0)
+
+
+### 향후 일정
+종강 이후 유의미한 수준의 성능까지 학습하기
