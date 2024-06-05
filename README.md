@@ -10,7 +10,7 @@
 6/4(화) : 모델 학습  
 
 
-### 실행결과
+### 실행결과  
 학습결과.zip : https://drive.google.com/file/d/1oFsRqyr8dT1PIFjykOyr4BMvWvBO5VzP/view?usp=drive_link  
 ---
 ![val_batch0_pred](https://github.com/PacaSim/Early-response-system-to-civil-complaints-using-YOLO/assets/116507879/b99f513c-87b4-4231-9e33-cc218448cf7d)
